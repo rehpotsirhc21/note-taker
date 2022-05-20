@@ -29,10 +29,10 @@ rehpotsirhc21
 ## E-mail
 langnerc@icloud.com
 
+![full site screen print](./public/assets/screencapture-fathomless-ravine-24734-herokuapp-notes-2022-05-20-15_24_18.png)
 
 
-
-
+## Links
 Heroku: https://fathomless-ravine-24734.herokuapp.com/
 
 repo: https://github.com/rehpotsirhc21/note-taker
