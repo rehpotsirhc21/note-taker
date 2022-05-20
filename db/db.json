@@ -1,29 +1,3 @@
 {
-  "notes": [
-    {
-      "title": "adding multiple notes`",
-      "text": "note #2",
-      "id": "df735537-eae7-478b-ac16-6c84f7037f2f"
-    },
-    {
-      "title": "note 3",
-      "text": "adding note 3",
-      "id": "f22a1596-57a4-44d6-b908-b9cb6281e1fb"
-    },
-    {
-      "title": "new note just because",
-      "text": "see my note",
-      "id": "108a749e-d70f-40dd-a462-26f74bbb032d"
-    },
-    {
-      "title": "test delete function",
-      "text": "delete",
-      "id": "9df1b73f-2823-4e4e-aafb-63c2bfd1d469"
-    },
-    {
-      "title": "add notes",
-      "text": "alsdkfjlaskdjfl;aksdjfasdf",
-      "id": "75939c8c-910d-4e52-b629-4d5e3e9d1297"
-    }
-  ]
+  "notes": []
 }
