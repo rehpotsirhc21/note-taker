@@ -1,6 +1,8 @@
 const router = require("express").Router();
-const { createNote } = require("../../lib/notes");
+const { createNote, deleteNote } = require("../../lib/notes");
 const { notes } = require("../../db/db.json");
+const path = require("path");
+const fs = require("fs");
 
 //get the info from the notes array with a get api call
 router.get("/notes", (req, res) => {
@@ -19,6 +21,7 @@ router.post("/notes", (req, res) => {
 
 router.delete("/notes/:id", (req, res) => {
   const id = req.params.id;
-  
+  deleteNote(notes, id);
+  res.json(notes);
 });
 module.exports = router;

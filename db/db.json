@@ -1,11 +1,6 @@
 {
   "notes": [
     {
-      "title": "lets try this again",
-      "text": "hi im a note",
-      "id": "c2f09629-dfd1-413d-baa7-9726da3bd7a1"
-    },
-    {
       "title": "adding multiple notes`",
       "text": "note #2",
       "id": "df735537-eae7-478b-ac16-6c84f7037f2f"
@@ -19,6 +14,16 @@
       "title": "new note just because",
       "text": "see my note",
       "id": "108a749e-d70f-40dd-a462-26f74bbb032d"
+    },
+    {
+      "title": "test delete function",
+      "text": "delete",
+      "id": "9df1b73f-2823-4e4e-aafb-63c2bfd1d469"
+    },
+    {
+      "title": "add notes",
+      "text": "alsdkfjlaskdjfl;aksdjfasdf",
+      "id": "75939c8c-910d-4e52-b629-4d5e3e9d1297"
     }
   ]
 }
